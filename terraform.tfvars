@@ -1,0 +1,5 @@
+#image_id      = "ami-0c02fb55956c7d316"
+#instance_type = "t2.micro"
+access_key = "/xypa/VuTp"
+secret_key = "qc1/VuTpM2"
+region     = "us-east-1"
